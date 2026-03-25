@@ -1,4 +1,6 @@
-# Flask CI/CD DevOps Project
+## Architecture Diagram
+
+![Architecture](architecture.png)# Flask CI/CD DevOps Project
 
 ## Project Overview
 This project demonstrates an end-to-end DevOps pipeline for deploying a Flask web application using Docker and Jenkins.
