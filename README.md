@@ -37,3 +37,4 @@ Technologies Used
 
 Pipeline Flow
 Developer → GitHub → Jenkins → Docker Build → Container Run
+## Architecture Diagram
