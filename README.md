@@ -41,3 +41,27 @@ Technologies Used
 Pipeline Flow
 Developer → GitHub → Jenkins → Docker Build → Container Run
 ## Architecture Diagram
+## Project Structure
+
+flask-cicd-project/
+│
+├── app.py
+├── requirements.txt
+├── Dockerfile
+├── Jenkinsfile
+├── architecture.png
+├── screenshots/
+└── README.md
+
+
+## Jenkins Pipeline Stages
+
+1. Developer pushes code to GitHub
+2. Jenkins pulls the code
+3. Docker image is built
+4. Container runs the Flask application
+
+
+## Application Screenshot
+
+![Flask App](screenshots/app-running.png)
