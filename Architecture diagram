@@ -1,0 +1,11 @@
+Developer
+   ↓
+GitHub
+   ↓
+Jenkins CI/CD
+   ↓
+Docker Build
+   ↓
+Docker Container
+   ↓
+Flask Web Application
